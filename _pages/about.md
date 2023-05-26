@@ -18,13 +18,13 @@ My research interest lies at the intersection of graph signal processing, multim
 {% capture news %} 
 News 
 =====
-04/2023: Our work in collaboration with KDDI won first place in ICIP-2023 point cloud quality assessment grand challenge.
-05/2022: Our work on point cloud attirbute compression is presented at ICASSP 2022, here is the {paper}(https://ieeexplore.ieee.org/document/9746352) and {video presentation}(https://www.youtube.com/watch?v=4fLwtSmu2xQ).
-10/2021: Our work on LiDAR point cloud compression is presented at ICIP-2021, here is the {paper}(https://ieeexplore.ieee.org/document/9506448) and {video presentation}(https://www.youtube.com/watch?v=zPrBIn2be1U).
-05/2021: I graduated with master's degree in Electrical Engineering from USC with Honors. 
-08/2021: Our work on Bias field correction of MRI images is presented at SPIE-2022, here is the {paper}(https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/2582042/Bias-field-correction-in-3D-MRIs-using-convolutional-autoencoders/10.1117/12.2582042.short?SSO=1)
-01/2021: I will be starting my Ph.D. program in Electrical Engineering at USC.
-08/2019: I will be starting my master's degree in Electrical Engineering at USC.
+1. 04/2023: Our work in collaboration with KDDI won first place in ICIP-2023 point cloud quality assessment grand challenge.
+2. 05/2022: Our work on point cloud attirbute compression is presented at ICASSP 2022, here is the {paper}(https://ieeexplore.ieee.org/document/9746352) and {video presentation}(https://www.youtube.com/watch?v=4fLwtSmu2xQ).
+3. 10/2021: Our work on LiDAR point cloud compression is presented at ICIP-2021, here is the {paper}(https://ieeexplore.ieee.org/document/9506448) and {video presentation}(https://www.youtube.com/watch?v=zPrBIn2be1U).
+4. 05/2021: I graduated with master's degree in Electrical Engineering from USC with Honors. 
+5. 08/2021: Our work on Bias field correction of MRI images is presented at SPIE-2022, here is the {paper}(https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/2582042/Bias-field-correction-in-3D-MRIs-using-convolutional-autoencoders/10.1117/12.2582042.short?SSO=1)
+6. 01/2021: I will be starting my Ph.D. program in Electrical Engineering at USC.
+7. 08/2019: I will be starting my master's degree in Electrical Engineering at USC.
 {% endcapture %}
 {{news | markdownify}}
 
