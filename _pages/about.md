@@ -10,8 +10,23 @@ redirect_from:
 
 Hi, I am Shashank, a Ph.D. student from Ming Hsieh Department of Electrical and Computer Engineering at the University of Southern California . My research advisor is [Prof. Antonio Ortega](https://scholar.google.com/citations?user=K4bCJYcAAAAJ&hl=en). 
 
-My research interest lie at the intersection of graph signal processing, multimedia data compression and optimization. I am particularly interested in developing scalable algorithms for 3D point cloud processing which includes compression, graph construction, sampling and reconstruction. 
+My research interest lies at the intersection of graph signal processing, multimedia data compression and differential geometry. I am particularly interested in developing scalable algorithms for 3D point cloud processing such as, 
+1. Compression. 
+2. Graph construction.
+3. Sampling and Reconstruction.
 
+{% capture news %} 
+News 
+=====
+04/2023: Our work in collaboration with KDDI won first place in ICIP-2023 point cloud quality assessment grand challenge.
+05/2022: Our work on point cloud attirbute compression is presented at ICASSP 2022, here is the {paper}(https://ieeexplore.ieee.org/document/9746352) and {video presentation}(https://www.youtube.com/watch?v=4fLwtSmu2xQ).
+10/2021: Our work on LiDAR point cloud compression is presented at ICIP-2021, here is the {paper}(https://ieeexplore.ieee.org/document/9506448) and {video presentation}(https://www.youtube.com/watch?v=zPrBIn2be1U).
+05/2021: I graduated with master's degree in Electrical Engineering from USC with Honors. 
+08/2021: Our work on Bias field correction of MRI images is presented at SPIE-2022, here is the {paper}(https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/2582042/Bias-field-correction-in-3D-MRIs-using-convolutional-autoencoders/10.1117/12.2582042.short?SSO=1)
+01/2021: I will be starting my Ph.D. program in Electrical Engineering at USC.
+08/2019: I will be starting my master's degree in Electrical Engineering at USC.
+{% endcapture %}
+{{news | markdownify}}
 
 
 Background
