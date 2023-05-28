@@ -24,6 +24,8 @@ My research interest lies at the intersection of graph signal processing, multim
 
 [May 2021] I graduated with master's degree in Electrical Engineering from USC with Honors. 
 
+[April 2021] I recieved USC ECE MS Honors award for excellent academic performance.
+
 [Feb 2021] Our work on Bias field correction of 3D MRI images using convolutional autoencoders is presented at SPIE-2021, here is the [paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/2582042/Bias-field-correction-in-3D-MRIs-using-convolutional-autoencoders/10.1117/12.2582042.short?SSO=1)
 
 [Jan 2021] I will be starting my Ph.D. program in Electrical Engineering at USC.
