@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h3 id="quote" class="archive__subtitle">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन - Perform your duty but do not have any expectation of the fruits </h3> <br>
+<h3 id="quote" class="archive__subtitle">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन - Perform your duty but do not have any expectation of the results </h3> <br>
  
 Hi, I am Shashank, a Ph.D. student from Ming Hsieh Department of Electrical and Computer Engineering at the University of Southern California . My research advisor is [Prof. Antonio Ortega](https://scholar.google.com/citations?user=K4bCJYcAAAAJ&hl=en). 
 
