@@ -9,17 +9,16 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 
 {% include base_path %}
 
-Submitted
-======
-* R Watanabe, S N. Sridhara, H. Hong, E. Pavez, A. Ortega <br> Full-Reference and Non-Reference Point Cloud Quality Assessment Methods With Support Vector Regression <br> [2023 IEEE International Conference on Image Processing (ICIP), Grand Challenge](https://signalprocessingsociety.org/publications-resources/data-challenges/point-cloud-visual-quality-assessment-challenge-icip-2023).
 
 Journal
 ======
 * (In progress) S. N. Sridhara et al. <br>
-Sampling and Reconstruction of point cloud color attributes. 
+Graph-based scalable Sampling and Reconstruction of 3D point cloud color attributes. 
 
 Conference
 ======
+* R Watanabe, S N. Sridhara, H. Hong, E. Pavez, A. Ortega <br> Full-Reference and Non-Reference Point Cloud Quality Assessment Methods With Support Vector Regression <br> [2023 IEEE International Conference on Image Processing (ICIP), Grand Challenge](https://signalprocessingsociety.org/publications-resources/data-challenges/point-cloud-visual-quality-assessment-challenge-icip-2023).
+
 
 * S. N. Sridhara, E. Pavez, R. Watanabe, K. Nonaka, A. Ortega <br>[Point cloud attribute compression via chroma subsampling](https://ieeexplore.ieee.org/document/9746352) <br> 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 
 
