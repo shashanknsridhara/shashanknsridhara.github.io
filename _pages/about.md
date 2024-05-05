@@ -16,7 +16,7 @@ My research interest lies at the intersection of graph signal processing, multim
 <!-- An overaching theme that has been driving my research is the need for high performing, extremely simple and explainable systems. -->
 {% capture news %}
 ## News
-[Oct 2023] My First US Patent filed in collaboration with KDDI has been approved! here is the [patent publication](https://www.freepatentsonline.com/y2023/0345016.html)
+[Oct 2023] My First US Patent was filed in collaboration with KDDI! Here is the [provisional patent publication](https://www.freepatentsonline.com/y2023/0345016.html)
 
 [Apr 2023] Our work in collaboration with KDDI won first place in ICIP-2023 point cloud quality assessment grand challenge.
 
