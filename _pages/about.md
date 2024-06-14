@@ -16,6 +16,8 @@ My research interest lies at the intersection of graph signal processing, multim
 <!-- An overaching theme that has been driving my research is the need for high performing, extremely simple and explainable systems. -->
 {% capture news %}
 ## News
+[May 2024] I will intern with the next-generation codec (NGC) group at Sony during the summer. I will be investigating the compression of 3D-Gaussian splats (3DGS).
+
 [Oct 2023] My First US Patent was filed in collaboration with KDDI! Here is the [provisional patent publication](https://www.freepatentsonline.com/y2023/0345016.html)
 
 [Apr 2023] Our work in collaboration with KDDI won first place in ICIP-2023 point cloud quality assessment grand challenge.
