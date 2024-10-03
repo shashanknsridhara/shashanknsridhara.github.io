@@ -16,13 +16,15 @@ My research interest lies at the intersection of graph signal processing, multim
 <!-- An overaching theme that has been driving my research is the need for high performing, extremely simple and explainable systems. -->
 {% capture news %}
 ## News
+[Sept 2024] Our recent paper on graph-based scalable sampling of 3D point cloud attributes is available on arXiv. Here is the [paper](https://arxiv.org/pdf/2410.01027)
+
 [May 2024] I will intern with the next-generation codec (NGC) group at Sony during the summer. I will be investigating the compression of 3D-Gaussian splats (3DGS).
 
 [Oct 2023] My First US Patent was filed in collaboration with KDDI! Here is the [provisional patent publication](https://www.freepatentsonline.com/y2023/0345016.html)
 
 [Apr 2023] Our work in collaboration with KDDI won first place in ICIP-2023 point cloud quality assessment grand challenge.
 
-[May 2022] Our work on point cloud attirbute compression is presented at ICASSP 2022, here is the [paper](https://ieeexplore.ieee.org/document/9746352) an [video presentation](https://www.youtube.com/watch?v=4fLwtSmu2xQ).
+[May 2022] Our work on point cloud attirbute compression is presented at ICASSP 2022, here is the [paper](https://ieeexplore.ieee.org/document/9746352) and [video presentation](https://www.youtube.com/watch?v=4fLwtSmu2xQ).
 
 [Oct 2021] Our work on LiDAR point cloud compression is presented at ICIP-2021, here is the [paper](https://ieeexplore.ieee.org/document/9506448) and [video presentation](https://www.youtube.com/watch?v=zPrBIn2be1U).
 
