@@ -12,10 +12,9 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 
 Journal
 ======
-* (In progress) S. N. Sridhara et al. <br>
-Graph-based scalable Sampling and Reconstruction of 3D point cloud color attributes.
+* S. N. Sridhara et al. <be> Graph-based scalable Sampling and Reconstruction of 3D point cloud color attributes (Under review)
 
-* R. Watanabe, S. N. Sridhara, H. Hong, E. Pavez, K. Nonaka, T. Kobayashi and A. Ortega, "Full-reference point cloud quality assessment using support vector regression," Elsevier Signal Processing: Image Communication (Under review)
+* R. Watanabe, S. N. Sridhara, H. Hong, E. Pavez, K. Nonaka, T. Kobayashi and A. Ortega, "Full-reference point cloud quality assessment using support vector regression," Elsevier Signal Processing: Image Communication
 
 Conference
 ======
