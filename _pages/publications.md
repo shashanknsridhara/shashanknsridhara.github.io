@@ -12,15 +12,15 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 
 Journal
 ======
-* S. N. Sridhara et al. <be> Graph-based scalable Sampling and Reconstruction of 3D point cloud color attributes (Under review)
+* S. N. Sridhara et al. <be> [Graph-based scalable Sampling and Reconstruction of 3D point cloud color attributes](https://arxiv.org/pdf/2410.01027) (Under review -submitted to IEEE Iransactions on Image Processing)
 
-* R. Watanabe, S. N. Sridhara, H. Hong, E. Pavez, K. Nonaka, T. Kobayashi and A. Ortega, "Full-reference point cloud quality assessment using support vector regression," Elsevier Signal Processing: Image Communication
+* R. Watanabe, S. N. Sridhara, H. Hong, E. Pavez, K. Nonaka, T. Kobayashi and A. Ortega, [Full-reference point cloud quality assessment using support vector regression](https://arxiv.org/pdf/2406.10520) Elsevier Signal Processing: Image Communication
 
 Conference
 ======
 * E Vasudevan, S N. Sridhara, E. Pavez, A. Ortega, R Singh, S Kalluri <br> [Color-guided flying pixel correction in depth images](https://arxiv.org/pdf/2410.08084) <br> 2024 IEEE Multimedia signal procession (MMSP).
 
-* R Watanabe, S N. Sridhara, H. Hong, E. Pavez, A. Ortega <br> Full-Reference and Non-Reference Point Cloud Quality Assessment Methods With Support Vector Regression <br> [2023 IEEE International Conference on Image Processing (ICIP), Grand Challenge](https://signalprocessingsociety.org/publications-resources/data-challenges/point-cloud-visual-quality-assessment-challenge-icip-2023).
+* R Watanabe, S N. Sridhara, H. Hong, E. Pavez, A. Ortega <br> [Full-Reference and Non-Reference Point Cloud Quality Assessment Methods With Support Vector Regression](https://signalprocessingsociety.org/publications-resources/data-challenges/point-cloud-visual-quality-assessment-challenge-icip-2023) <br> 2023 IEEE International Conference on Image Processing (ICIP), Grand Challenge.
 
 
 * S. N. Sridhara, E. Pavez, R. Watanabe, K. Nonaka, A. Ortega <br>[Point cloud attribute compression via chroma subsampling](https://ieeexplore.ieee.org/document/9746352) <br> 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 
