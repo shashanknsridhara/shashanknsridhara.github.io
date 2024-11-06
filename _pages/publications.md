@@ -18,6 +18,8 @@ Journal
 
 Conference
 ======
+* E Vasudevan, S N. Sridhara, E. Pavez, A. Ortega, R Singh, S Kalluri <br> [Color-guided flying pixel correction in depth images](https://arxiv.org/pdf/2410.08084) <br> 2024 IEEE Multimedia signal procession (MMSP).
+
 * R Watanabe, S N. Sridhara, H. Hong, E. Pavez, A. Ortega <br> Full-Reference and Non-Reference Point Cloud Quality Assessment Methods With Support Vector Regression <br> [2023 IEEE International Conference on Image Processing (ICIP), Grand Challenge](https://signalprocessingsociety.org/publications-resources/data-challenges/point-cloud-visual-quality-assessment-challenge-icip-2023).
 
 
